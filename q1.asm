@@ -1,5 +1,3 @@
-File: q1.asm
-
 section .data
     q  db "באיזה צבע השמש ? ",10
     q_len equ $-q
