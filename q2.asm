@@ -1,5 +1,3 @@
-File: q2.asm
-
 section .data
     q  db "מה לובשים בחורף ? ",10
     q_len equ $-q
